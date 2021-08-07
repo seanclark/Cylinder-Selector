@@ -1,0 +1,15 @@
+p {
+  color: #D63F0F;
+  font-size: 22px;
+  padding-top: 25px;
+}
+
+div.container {
+  margin-top: 60px;
+  font-family: 'Roboto', sans-serif;
+}
+
+img {
+  background-repeat: no-repeat;
+  background-position: right;
+}
