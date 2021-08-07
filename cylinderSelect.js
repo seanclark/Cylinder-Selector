@@ -10,7 +10,7 @@
               "<br>" + cylArray[i].cylinder + "<br>" + cylArray[i].pins + "<br>" + cylArray[i].type;
             }
           }
-         if(!valid) alert("Enter a valid cylinder type"); // If we never found a match then we alert
+           if(!valid) alert("Enter a valid cylinder type"); // If we never found a match then we alert
          }
          function inValidAlert(){
            let cylFindInvalid = document.getElementById("cylEnter").value.toUpperCase();
