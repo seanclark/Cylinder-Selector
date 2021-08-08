@@ -1,6 +1,7 @@
 # Cylinder-Selector
-Web utility to display details for a user entered lock cylinder type. This app was created
-to help with product support calls for a lock manufacturer. Often it is difficult to know
+Web utility to display details for a user entered lock cylinder type. 
+Live site here: https://seanclark.github.io/Cylinder-Selector/
+This app was created to help with product support calls for a lock manufacturer. Often it is difficult to know
 all of the details of each cylinder type while helping a customer. 
 The user inputs the cylinder type into the utility and it outputs the details. 
 Javascript, HTML & CSS where used along with a small amount of Bootstrap for styling.
